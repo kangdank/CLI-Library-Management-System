@@ -154,6 +154,8 @@ mvn exec:java
 java -jar target/CLILibraryManagment-1.0-SNAPSHOT-standalone.jar
 ```
 
+*Sử dụng 2 cách trên có thể sẽ gây lỗi dấu tiếng việt*
+
 ### Cách 3: Sử dụng IntelliJ IDEA
 
 1. Mở dự án sử dụng IntelliJ IDEA
@@ -202,6 +204,7 @@ The project includes comprehensive unit tests covering:
 - GitHub: [https://github.com/kangdank](https://github.com/yourusername)
 - LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](https://linkedin.com/in/yourprofile)
 - Email: khangdangcv@gmail.com
+
 
 
 
