@@ -100,7 +100,7 @@ CLILibraryManagment/
 Kiểm tra môi trường để chương trình
 
 ```bash
-# Phiên bản Java (17+)
+# Phiên bản Java (21+)
 java -version
 
 # Phiên bản Maven (3.6+)
@@ -202,6 +202,7 @@ The project includes comprehensive unit tests covering:
 - GitHub: [https://github.com/kangdank](https://github.com/yourusername)
 - LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](https://linkedin.com/in/yourprofile)
 - Email: khangdangcv@gmail.com
+
 
 
 
