@@ -21,14 +21,14 @@ Dự án được thiết kế để thể hiện các kỹ năng cơ bản củ
 - **Xem chi tiết** - Thông tin thành viên và sách đang mượn
 - **Quản lý trạng thái tài khoản** - Kích hoạt/Hủy kích hoạt thành viên
 
-### Transaction Management
+### Quản lý giao dịch
 - **Mượn sách** - Mượn sách (14 ngày)
 - **Trả sách** - Trả sách và tính toán phí trả muộn
 - **Lịch sử giao dịch** - Xem lịch sử giao dic của thành viên
 - **Theo dõi giao dịch quá hạn** - Xác định và theo dõi sách trả muộn
 - **Giao dịch gần đây** - Hiển thị những giao dịch gần nhất
 
-### Tính năng
+### Tính năng ứng dụng
 - **Lưu trữ dữ liệu** - Lưu/xóa dữ liệu thư viện
 - **Kiểm thử đầu vào** - Kiểm tra tính hợp lệ của dữ liệu
 
@@ -37,7 +37,7 @@ Dự án được thiết kế để thể hiện các kỹ năng cơ bản củ
 ## Mục tiêu
 Dự án được thiết kế để thể hiện:
 - **Lập trình hướng đối tượng**: Sử dụng class và các tính chất cơ bản của OOP như kế thừa, đa hình,...
-- **Design Patterns**: Sử dụng mẫu thiết kế Singleton, Facade, Repository
+- **Design Pattern**: Sử dụng mẫu thiết kế Singleton, Facade, Repository
 - **Cấu trúc dữ liệu**: Sử dụng Java Collection Framework như List, Map
 - **Tính năng Java hiện đại**: Stream, Lambda expression
 - **Kiểm thử**: Sử dụng Junit 5
@@ -154,7 +154,7 @@ mvn exec:java
 java -jar target/CLILibraryManagment-1.0-SNAPSHOT-standalone.jar
 ```
 
-*Sử dụng 2 cách trên có thể sẽ gây lỗi dấu tiếng việt*
+*Sử dụng 2 cách trên có thể sẽ gây lỗi dấu tiếng việt trong CLI*
 
 ### Cách 3: Sử dụng IntelliJ IDEA
 
@@ -181,7 +181,7 @@ mvn test
 
 ### Phạm vi kiểm thử
 
-The project includes comprehensive unit tests covering:
+Chương trình bao gồm các test:
 - Xác minh đầu vào (email, SĐT, ISBN, ...)
 - Thao tác với sách (thêm, xóa, tìm kiếm)
 - Thao tác với thành viên (đăng ký, kích hoạt)
@@ -204,6 +204,7 @@ The project includes comprehensive unit tests covering:
 - GitHub: [https://github.com/kangdank](https://github.com/yourusername)
 - LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](https://linkedin.com/in/yourprofile)
 - Email: khangdangcv@gmail.com
+
 
 
 
