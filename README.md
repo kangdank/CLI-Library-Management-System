@@ -201,9 +201,10 @@ Chương trình bao gồm các test:
 \
 \
 **[Đặng Phú Khang]**
-- GitHub: [https://github.com/kangdank]([https://github.com/yourusername](https://github.com/kangdank))
-- LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](www.linkedin.com/in/dang-khang-b507b732b)
+- GitHub: [https://github.com/kangdank]
+- LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b]
 - Email: khangdangcv@gmail.com
+
 
 
 
