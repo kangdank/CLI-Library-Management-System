@@ -47,7 +47,7 @@ Dự án được thiết kế để thể hiện:
 ## Cấu trúc File dự án
 
 ```
-CLILibraryManagment/
+CLI-Library-Management-System/
 ├── pom.xml
 ├── .gitignore
 ├── README.md
@@ -204,6 +204,7 @@ Chương trình bao gồm các test:
 - GitHub: [https://github.com/kangdank](https://github.com/yourusername)
 - LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](https://linkedin.com/in/yourprofile)
 - Email: khangdangcv@gmail.com
+
 
 
 
