@@ -115,7 +115,7 @@ git --version
 Sử dụng Git
 ```bash
 git clone https://github.com/kangdank/CLI-Library-Management-System
-cd CLILibraryManagment
+cd CLI-Library-Management-System
 ```
 
 ### Build chương trình
@@ -202,6 +202,7 @@ The project includes comprehensive unit tests covering:
 - GitHub: [https://github.com/kangdank](https://github.com/yourusername)
 - LinkedIn: [www.linkedin.com/in/dang-khang-b507b732b](https://linkedin.com/in/yourprofile)
 - Email: khangdangcv@gmail.com
+
 
 
 
